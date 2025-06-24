@@ -25,6 +25,7 @@ This fun and interactive desktop application lets you play the classic game agai
 -  Scoreboard display
 
 🧾 Game Rules-
+
 Rock beats Scissors
 
 Scissors beats Paper
