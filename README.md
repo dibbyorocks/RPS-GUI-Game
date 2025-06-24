@@ -26,6 +26,9 @@ This fun and interactive desktop application lets you play the classic game agai
 
 🧾 Game Rules
 Rock beats Scissors
+
 Scissors beats Paper
+
 Paper beats Rock
+
 Same choices → Draw
