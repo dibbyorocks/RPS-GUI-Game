@@ -1,8 +1,8 @@
 # RPS-GUI-Game
 # ✊✋✌️ Rock-Paper-Scissors GUI Game
 
-Welcome to the **Rock-Paper-Scissors** GUI game built using **Java** and **JFrame**!  
-This fun and interactive desktop application lets you play the classic game against the computer in a sleek graphical interface.
+A simple and interactive Rock-Paper-Scissors game built using **Java** and **JFrame**.  
+This fun and interactive desktop application lets you play the classic game against the computer in a user-friendly graphical interface.
 
 > GitHub Repo: [RPS-GUI-Game](https://github.com/dibbyorocks/RPS-GUI-Game/tree/main)
 
@@ -24,7 +24,7 @@ This fun and interactive desktop application lets you play the classic game agai
 -  Game logic to determine Win, Lose, or Draw
 -  Scoreboard display
 
-🧾 Game Rules
+🧾 Game Rules-
 Rock beats Scissors
 
 Scissors beats Paper
